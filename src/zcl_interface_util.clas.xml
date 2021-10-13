@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_INTERFACE_UTIL</CLSNAME>
+    <LANGU>1</LANGU>
+    <DESCRIPT>日志存储类</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_INTERFACE_UTIL</CLSNAME>
+     <CMPNAME>GC_CLIENT</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>接口方向</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_INTERFACE_UTIL</CLSNAME>
+     <CMPNAME>GC_SERVER</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>接口方向</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_INTERFACE_UTIL</CLSNAME>
+     <CMPNAME>SAVE_MESSAGE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>保存消息</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_INTERFACE_UTIL</CLSNAME>
+     <CMPNAME>TY_HTTP_TYPE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>接口方向</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
